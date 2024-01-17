@@ -25,6 +25,7 @@
 - A score table keeps track of the number of lost games.
 
 ### ScreenShot
+![Feed Frenzy](images/ss.png)
 
 ## Catch The Ball
 
@@ -41,8 +42,11 @@
 - Fall from the top of the screen.
 - Player must use spawned dogs to catch the falling balls.
 
-## Game Progression
+### Game Progression
 - Balls fall continuously from the top.
 - Each caught ball contributes to the player's score.
 - Missing 3 balls causes the game over.
+
+### ScreenShot
+![Catch The Ball](images/ss1.png)
 
